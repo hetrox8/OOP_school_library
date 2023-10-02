@@ -54,7 +54,7 @@
 
 To get a local copy up and running, follow these steps.
 
-- Clone the [project using github](https://github.com/jecode93/own-enumerable.git)
+- Clone the [project using github](https://github.com/hetrox8/OOP_school_library.git)
 
 
 
