@@ -1,7 +1,7 @@
 class Person
   attr_accessor :id, :name, :age
 
-  def initialize(name: "Unknown", age: nil, parent_permission: true)
+  def initialize(name: 'Unknown', age: nil, parent_permission: true)
     @id = generate_id
     @name = name
     @age = age
