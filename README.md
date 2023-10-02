@@ -26,9 +26,9 @@
 
 # 📖 [OOP School Library] <a name="about-project"></a>
 
-> In this project, i will start building your school library app using Ruby.
+> In this project, i will start by building your school library app using Ruby.
 
-**[OOP School Library]** this ruby project that creates an object orientated app called school library
+**[OOP School Library]** thisis a  ruby project that creates an object orientated app called school library
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
