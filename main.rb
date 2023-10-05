@@ -1,11 +1,17 @@
-require 'person'
-require 'decorator'
-require 'capitalize_decorator'
-require 'trimmer_decorator'
+require_relative 'app'
+require_relative 'menu'
+require_relative 'book'
+require_relative 'person'
+require_relative 'rental'
+require_relative 'handler'
 
-person = Person.new(22, 'maximilianus')
-puts person.correct_name
-capitalized_person = CapitalizeDecorator.new(person)
-puts capitalized_person.correct_name
-capitalized_trimmed_person = TrimmerDecorator.new(capitalized_person)
-puts capitalized_trimmed_person.correct_name
+books = []
+people = []
+rentals = []
+
+loop do
+  display_menu
+  choice = gets.chomp
+  handle_choice(choice, books, people, rentals)
+  break if choice == '7'
+end
