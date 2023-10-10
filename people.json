@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "age": 14,
+    "name": "Rose",
+    "parent_permission": true,
+    "rentals": [
+      {
+        "book_id": 1,
+        "person_id": 1,
+        "date": "2022-12-12"
+      }
+    ]
+  }
+]
