@@ -18,8 +18,7 @@ class Teacher < Person
       age: @age,
       name: @name,
       parent_permission: @parent_permission,
-      specialization: @specialization,
-      rentals: @rentals.map(&:to_h)
+      specialization: @specialization
     }
   end
 end
