@@ -101,6 +101,11 @@ To run tests, run the following command:
 - GitHub: [@hetrox8](https://github.com/hetrox8)
 - Twitter: [@suleimangacheru](https://twitter.com/suleimangacheru)
 
+👤 **Zilola Nazarova**
+
+- GitHub: [@Zilola-Nazarova](https://github.com/Zilola-Nazarova)
+- Twitter: [@NazarovaZi](https://twitter.com/NazarovaZi)
+- LinkedIn: [in/NazarovaZi](https://www.linkedin.com/in/zilola-nazarova)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

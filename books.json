@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "aaa",
+    "author": "aaa",
+    "rentals": [
+      {
+        "book_id": 1,
+        "person_id": 1,
+        "date": "2022-12-12"
+      }
+    ]
+  }
+]
