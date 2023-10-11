@@ -108,7 +108,8 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Decode message]**
+- [ ] **[Dynamic]**
+- [] **[Responsive]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,7 +127,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project...
+If you like this project kindly leave a star or follow me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
