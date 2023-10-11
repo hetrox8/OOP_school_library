@@ -1,13 +1,12 @@
-class Classroom
-  attr_accessor :label, :students
+require_relative './nameable'
 
-  def initialize(label)
-    @label = label
-    @students = []
+class Decorator < Nameable
+  def initialize(nameable)
+    super()
+    @nameable = nameable
   end
 
-  def add_student(student)
-    @students << student
-    student.assign_to_classroom(self)
+  def correct_name
+    @nameable.correct_name
   end
 end
